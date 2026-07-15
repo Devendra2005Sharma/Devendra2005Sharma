@@ -6,11 +6,12 @@
   <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="450" alt="Hacker Animation"/>
 </p>
 
-
 # 💫 About Me:
-<br>- 🔭 I'm currently working on Full-Stack Web Development Projects<br>- 👯 I'm looking to collaborate on Open Source Projects and Web Application<br>- 🤝 I'm looking for help with System Design, Cloud Computing, and Open Source<br>- 🌱 I'm currently learning Data Structures & Algorithms, Java, React.js, Node.js, and AWS<br>- 💬 Ask me about Node.js, Git and GitHub<br>- ⚡ Fun fact: I enjoy learning new technologies.<br>
+
+<br>- 🔭 I'm currently working on Full-Stack Web Development Projects<br>- 👯 I'm looking to collaborate on Open Source Projects and Web Application<br>- 🤝 I'm looking for help with System Design, Cloud Computing, and Open Source<br>- 🌱 I'm currently learning Data Structures & Algorithms, Java, React.js, Node.js<br>- 💬 Ask me about Node.js, Git and GitHub<br>- ⚡ Fun fact: I enjoy learning new technologies.<br>
 
 
+---
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/aaSYEN7Mf) [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=black)](https://leetcode.com/u/Devendra_sharma123/)
 [![HackerRank](https://img.shields.io/badge/HackerRank-00EA64?style=flat&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/devendrasharma32) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/devendrasharma23) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@https://medium.com/@devendrasharma3161) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/https://in.pinterest.com/devendrasharma3161/) [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://quora.com/profile/https://www.quora.com/profile/Devendra-Sharma-648) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/https://stackoverflow.com/users/32939601/devendra-sharma) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/DevendraSh46281) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:devendrasharma3161@gmail.com)
