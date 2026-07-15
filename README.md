@@ -21,13 +21,10 @@
 ![](https://streak-stats.demolab.com/?user=Devendra2005Sharma&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=Devendra2005Sharma&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
-
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Devendra2005Sharma&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
----
+
 [![](https://komarev.com/ghpvc/?username=Devendra2005Sharma&icon=0&color=13)](https://visitcount.itsvg.in)
 
   ## 💰 You can help me by Donating
