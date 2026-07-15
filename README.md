@@ -2,6 +2,10 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=Hi+%F0%9F%91%8B%2C+I'm+Devendra+Sharma;Full+Stack+Developer;DSA+Enthusiast;Java+Programmer" alt="Typing SVG" />
 </p>
 
+<p align="center">
+  <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="450" alt="Hacker Animation"/>
+</p>
+
 
 # 💫 About Me:
 <br>- 🔭 I'm currently working on Full-Stack Web Development Projects<br>- 👯 I'm looking to collaborate on Open Source Projects and Web Application<br>- 🤝 I'm looking for help with System Design, Cloud Computing, and Open Source<br>- 🌱 I'm currently learning Data Structures & Algorithms, Java, React.js, Node.js, and AWS<br>- 💬 Ask me about Node.js, Git and GitHub<br>- ⚡ Fun fact: I enjoy learning new technologies.<br>
