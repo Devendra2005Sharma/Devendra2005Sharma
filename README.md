@@ -3,7 +3,7 @@
 </p>
 
 # 💫 About Me:
-<img  align ="right" src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="300" alt="Hacker Animation"/>
+<img  align ="right" src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="250" alt="Hacker Animation"/>
 
 
 <br>- 🔭 I'm currently working on Full-Stack Web Development Projects<br>- 👯 I'm looking to collaborate on Open Source Projects and Web Application<br>- 🤝 I'm looking for help with System Design, Cloud Computing, and Open Source<br>- 🌱 I'm currently learning Data Structures & Algorithms, Java, React.js, Node.js<br>- 💬 Ask me about Node.js, Git and GitHub<br>- ⚡ Fun fact: I enjoy learning new technologies.<br>
