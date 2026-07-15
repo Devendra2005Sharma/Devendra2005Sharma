@@ -1,3 +1,12 @@
+<p align="center">
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=30&pause=1000&color=00C2FF&center=true&vCenter=true&width=750&lines=🚀+Full+Stack+Developer;💻+DSA+Enthusiast;☕+Java+Programmer"
+    alt="Typing SVG"
+  />
+</p>
+
+
+
 # 💫 About Me:
 <br>- 🔭 I'm currently working on Full-Stack Web Development Projects<br>- 👯 I'm looking to collaborate on Open Source Projects and Web Application<br>- 🤝 I'm looking for help with System Design, Cloud Computing, and Open Source<br>- 🌱 I'm currently learning Data Structures & Algorithms, Java, React.js, Node.js, and AWS<br>- 💬 Ask me about Node.js, Git and GitHub<br>- ⚡ Fun fact: I enjoy learning new technologies.<br>
 
